@@ -1,10 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.bundle",
-    "\\_includes",
-    "\\_layouts"
+    "\\assets",
+    "\\assets\\images",
+    "\\assets\\js",
+    "\\vendor\\js",
+    "\\_includes"
   ],
-  "SelectedNode": "\\_config.yml",
+  "SelectedNode": "\\assets\\images\\python-chat.png",
   "PreviewInSolutionExplorer": false
 }
