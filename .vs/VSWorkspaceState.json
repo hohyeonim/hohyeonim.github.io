@@ -2,11 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\assets",
+    "\\assets\\css",
     "\\assets\\images",
     "\\assets\\js",
-    "\\vendor\\js",
     "\\_includes"
   ],
-  "SelectedNode": "\\assets\\images\\python-chat.png",
+  "SelectedNode": "\\assets\\images\\background.png",
   "PreviewInSolutionExplorer": false
 }
