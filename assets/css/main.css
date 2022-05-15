@@ -11,7 +11,7 @@ img {
 
 .head {
 
-  color: #fff;
+  color: #000000;
   min-height: 100vh;
 
   display: -webkit-box;
@@ -80,12 +80,12 @@ img {
 }
 
 .head-punchline {
-  font-family: 'PT Sans', Arial, Helvetica, sans-serif;
-  text-align: center;
-  color: #fff;
-  margin-top: 10px;
-  font-size: 20px;
-  font-size: 1.25rem;
+    font-family: 'PT Sans', Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #000000;
+    margin-top: 10px;
+    font-size: 20px;
+    font-size: 1.25rem;
 }
 
 .head-buttons {
@@ -211,15 +211,15 @@ img {
 }
 
 .section-wrapper:nth-child(odd) .section-heading {
-  color: #fff;
+  color: #000000;
 }
 
 .section-wrapper:nth-child(odd) .skills-subsection {
-  color: #fff;
+  color: #000000;
 }
 
 .section-wrapper:nth-child(odd) .paragraph-text {
-  color: #fff;
+  color: #000000;
 }
 
 .paragraph-text {
@@ -279,7 +279,7 @@ img {
       -ms-flex-align: center;
           align-items: center;
   min-height: 35px;
-  color: #fff;
+  color: #000000;
   font-family: 'PT Sans', Arial, Helvetica, sans-serif;
 
   background: url(../images/background.png);
@@ -294,7 +294,7 @@ img {
 .technologies-grid-item {
   width: 96.6666px;
   height: 96.6666px;
-  background-color: #fff;
+  background-color: #000000;
 }
 
 .project-card {
@@ -337,7 +337,7 @@ img {
   background-color: #444;
   border-radius: 3px;
   padding: 5px;
-  color: #fff;
+  color: #000000;
 }
 
 .post-date {
