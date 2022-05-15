@@ -1,0 +1,21 @@
+title: Abhishek Nagekar
+description: Web & Security Engineer
+site_title: '@abhn - Abhishek Nagekar'
+
+# Build settings
+markdown: kramdown
+exclude: [vendor/ruby]
+
+# Personalization
+github_username: hohyeonim
+blog_url: https://hohyeonim.github.io
+email: dlaghgus2000@naver.com
+keybase_username: abhn
+twitter_username: abhn_
+reddit_username: abhn
+
+# absolute or relative
+profile_picture: assets/images/pp.jpg
+
+# Google Analytics ID
+google_analytics: 
