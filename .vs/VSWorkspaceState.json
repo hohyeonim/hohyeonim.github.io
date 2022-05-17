@@ -5,8 +5,10 @@
     "\\assets\\css",
     "\\assets\\images",
     "\\assets\\js",
+    "\\vendor",
+    "\\vendor\\css",
     "\\_includes"
   ],
-  "SelectedNode": "\\assets\\images\\background.png",
+  "SelectedNode": "\\_includes\\about.html",
   "PreviewInSolutionExplorer": false
 }
